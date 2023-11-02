@@ -24,7 +24,7 @@ Before you begin, ensure you have met the following requirements:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/PostgresNodeCrud.git
+   git clone https://github.com/MugemaneBertin2001/PostgresNodeCrud.git
    cd PostgresNodeCrud
    ```
 
@@ -48,7 +48,7 @@ Before you begin, ensure you have met the following requirements:
    npm start
    ```
 
-The API will be available at `http://localhost:3000`.
+The API will be available at `http://localhost:3000/postgres`.
 
 ## Usage
 
