@@ -1,5 +1,4 @@
 
-```markdown
 # PostgresNodeCrud
 
 PostgresNodeCrud is a simple Node.js application that uses Sequelize and PostgreSQL to perform CRUD (Create, Read, Update, Delete) operations on a database. It serves as a basic example for building a RESTful API with Node.js and PostgreSQL.
@@ -74,4 +73,3 @@ Feel free to contribute to this project. You can open issues and create pull req
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-```
